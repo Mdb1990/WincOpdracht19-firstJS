@@ -1,0 +1,12 @@
+console.log("Hello Winc Academy");
+let name = "Marco de Boer";
+let age = 30;
+let age2 = "30";
+console.log(name);
+console.log(4 + 4);
+console.log("2" + "2");
+console.log(88 / 10);
+console.log(8 * 8);
+console.log(8%3);
+console.log(typeof age);
+console.log(typeof age2);
